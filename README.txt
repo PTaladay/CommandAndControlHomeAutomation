@@ -1,0 +1,1 @@
+This project will be used to house the server compnents which will be written in node.js using socket.io as the server push technology. More details to come.
